@@ -2,7 +2,7 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+This project was created for the 2025 DreanHacks project featuring a maze like game where you explore a randomly generated maze and avoid enemies.
 
 ## Platforms
 
